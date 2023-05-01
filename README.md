@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Desenvolvedor de Software Fullstack 💻
+    Sou fascinado pela inovação e pelo poder que a tecnologia tem em transformar vidas e o universo ao seu redor! Estudando TI na Cubos Academy e na UFMS. 🚀
    
   </p>
   
