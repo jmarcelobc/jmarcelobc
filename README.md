@@ -6,7 +6,7 @@
   </h1>
   
   <p align="center">
-    Sou Desenvolvedor de Software Fullstack 💻
+    Desenvolvedor de Software Fullstack 💻
    
   </p>
   
