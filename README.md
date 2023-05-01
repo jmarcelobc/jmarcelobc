@@ -13,7 +13,7 @@ Desenvovedor de software fullstack 💻
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jmarcelobc&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jmarcelobc&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/jmarcelobc/jmarcelobc/blob/output/github-contribution-grid-snake.svg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jmarcelobc&icon=0&color=0)](https://visitcount.itsvg.in)
