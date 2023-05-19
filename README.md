@@ -1,35 +1,22 @@
-<div>
-  
-  <h1 align="center">
-    Oi Tudo bem? 👋🏼 Eu sou o 
-    <a href="https://www.linkedin.com/in/marcelo-britto/">Marcelo Britto 😃️</a>
-  </h1>
-  
-  <p align="center">
-    Sou fascinado pela inovação e pelo poder que a tecnologia tem em transformar vidas e o universo ao seu redor! Estudando TI na Cubos Academy e na UFMS. 🚀
-   
-  </p>
-  
-  </div>
+## Olá Dev! :computer: :blush: 
 
-<div align="center">
-  <a href="https://github.com/jmarcelobc">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jmarcelobc&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmarcelobc&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
-</div>
+Me chamo Marcelo Britto, sou **Desenvolvedor FullStack**. Atualmente estudo **Desenvolvimento de Software** na [Cubos Academy](https://cubos.academy/) e Tecnologia da Informação na [UFMS](https://www.ufms.br/). Estou em trasição de carreira do curso de Comunicação Social e sou amante das artes cênicas e audiovisual. :disguised_face: :clapper:
 
-<div align="center" valign="top"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div><br>
+## 	:speech_balloon: Para me encontrar:
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/marcelo-britto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:jmarcelobc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+[![Link para o Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmarcelobc)
+![Link para o Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+<a href="mailto:jmarcelobc@gmail.com" target="_blank"> 
+   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+</a>
 
-<div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
-</div>
+## 	:open_hands: Hard Skills:
+![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jmarcelobc&theme=radical&custom_title=Top%20%Linguagens)
+
+
+> "O sucesso é a soma de pequenos esforços repetidos diariamente" - Robert Collier
