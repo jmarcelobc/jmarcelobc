@@ -16,7 +16,4 @@ Me chamo Marcelo Britto, sou **Desenvolvedor FullStack**. Atualmente estudo **De
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![reactjs](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=jmarcelobc&theme=radical&custom_title=Top%20%Linguagens)
-
-
 > "O sucesso é a soma de pequenos esforços repetidos diariamente" - Robert Collier
