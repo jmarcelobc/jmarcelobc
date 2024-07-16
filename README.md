@@ -1,6 +1,6 @@
 ## Olá Dev! :computer: :blush: 
 
-Me chamo Marcelo Britto, sou **Desenvolvedor Back-End**. Atualmente estudo **Desenvolvimento de Software** na [Cubos Academy](https://cubos.academy/) e Tecnologia da Informação na [UFMS](https://www.ufms.br/). Estou em trasição de carreira do curso de Comunicação Social e sou amante das artes cênicas e audiovisual. :disguised_face: :clapper:
+Me chamo Marcelo Britto, sou **Desenvolvedor Front-End**. Atualmente estudo **Desenvolvimento de Software** na [Cubos Academy](https://cubos.academy/) e Tecnologia da Informação na [UFMS](https://www.ufms.br/). Estou em trasição de carreira do curso de Comunicação Social e sou amante das artes cênicas e audiovisual. :disguised_face: :clapper:
 
 ## 	:speech_balloon: Para me encontrar:
 
